@@ -1,0 +1,257 @@
+Token	POS-Tag	OOV	Id	Index	Documento
+O	DET	0	1	0	O Brasil registrou crescimento econômico no último trimestre .
+Brasil	PROPN	0	1	1	O Brasil registrou crescimento econômico no último trimestre .
+registrou	VERB	0	1	2	O Brasil registrou crescimento econômico no último trimestre .
+crescimento	NOUN	0	1	3	O Brasil registrou crescimento econômico no último trimestre .
+econômico	ADJ	0	1	4	O Brasil registrou crescimento econômico no último trimestre .
+no	ADP	0	1	5	O Brasil registrou crescimento econômico no último trimestre .
+último	ADJ	0	1	6	O Brasil registrou crescimento econômico no último trimestre .
+trimestre	NOUN	1	1	7	O Brasil registrou crescimento econômico no último trimestre .
+.	PUNCT	0	1	8	O Brasil registrou crescimento econômico no último trimestre .
+Pesquisadores	NOUN	1	2	0	Pesquisadores desenvolveram uma nova tecnologia para energia solar .
+desenvolveram	VERB	0	2	1	Pesquisadores desenvolveram uma nova tecnologia para energia solar .
+uma	DET	0	2	2	Pesquisadores desenvolveram uma nova tecnologia para energia solar .
+nova	ADJ	0	2	3	Pesquisadores desenvolveram uma nova tecnologia para energia solar .
+tecnologia	NOUN	0	2	4	Pesquisadores desenvolveram uma nova tecnologia para energia solar .
+para	ADP	0	2	5	Pesquisadores desenvolveram uma nova tecnologia para energia solar .
+energia	NOUN	0	2	6	Pesquisadores desenvolveram uma nova tecnologia para energia solar .
+solar	ADJ	0	2	7	Pesquisadores desenvolveram uma nova tecnologia para energia solar .
+.	PUNCT	0	2	8	Pesquisadores desenvolveram uma nova tecnologia para energia solar .
+A	DET	0	3	0	A seleção brasileira venceu a partida por três a zero .
+seleção	NOUN	0	3	1	A seleção brasileira venceu a partida por três a zero .
+brasileira	ADJ	0	3	2	A seleção brasileira venceu a partida por três a zero .
+venceu	VERB	0	3	3	A seleção brasileira venceu a partida por três a zero .
+a	DET	0	3	4	A seleção brasileira venceu a partida por três a zero .
+partida	NOUN	0	3	5	A seleção brasileira venceu a partida por três a zero .
+por	ADP	0	3	6	A seleção brasileira venceu a partida por três a zero .
+três	NUM	0	3	7	A seleção brasileira venceu a partida por três a zero .
+a	ADP	0	3	8	A seleção brasileira venceu a partida por três a zero .
+zero	NUM	0	3	9	A seleção brasileira venceu a partida por três a zero .
+.	PUNCT	0	3	10	A seleção brasileira venceu a partida por três a zero .
+A	DET	0	4	0	A inflação apresentou queda durante o mês de abril .
+inflação	NOUN	0	4	1	A inflação apresentou queda durante o mês de abril .
+apresentou	VERB	0	4	2	A inflação apresentou queda durante o mês de abril .
+queda	NOUN	0	4	3	A inflação apresentou queda durante o mês de abril .
+durante	ADP	0	4	4	A inflação apresentou queda durante o mês de abril .
+o	DET	0	4	5	A inflação apresentou queda durante o mês de abril .
+mês	NOUN	0	4	6	A inflação apresentou queda durante o mês de abril .
+de	ADP	0	4	7	A inflação apresentou queda durante o mês de abril .
+abril	NOUN	0	4	8	A inflação apresentou queda durante o mês de abril .
+.	PUNCT	0	4	9	A inflação apresentou queda durante o mês de abril .
+Universidades	NOUN	1	5	0	Universidades federais receberam novos investimentos em pesquisa .
+federais	ADJ	0	5	1	Universidades federais receberam novos investimentos em pesquisa .
+receberam	VERB	0	5	2	Universidades federais receberam novos investimentos em pesquisa .
+novos	ADJ	0	5	3	Universidades federais receberam novos investimentos em pesquisa .
+investimentos	NOUN	0	5	4	Universidades federais receberam novos investimentos em pesquisa .
+em	ADP	0	5	5	Universidades federais receberam novos investimentos em pesquisa .
+pesquisa	NOUN	0	5	6	Universidades federais receberam novos investimentos em pesquisa .
+.	PUNCT	0	5	7	Universidades federais receberam novos investimentos em pesquisa .
+A	DET	0	6	0	A prefeitura anunciou obras de mobilidade urbana .
+prefeitura	NOUN	0	6	1	A prefeitura anunciou obras de mobilidade urbana .
+anunciou	VERB	0	6	2	A prefeitura anunciou obras de mobilidade urbana .
+obras	NOUN	0	6	3	A prefeitura anunciou obras de mobilidade urbana .
+de	ADP	0	6	4	A prefeitura anunciou obras de mobilidade urbana .
+mobilidade	NOUN	0	6	5	A prefeitura anunciou obras de mobilidade urbana .
+urbana	ADJ	0	6	6	A prefeitura anunciou obras de mobilidade urbana .
+.	PUNCT	0	6	7	A prefeitura anunciou obras de mobilidade urbana .
+Empresas	NOUN	1	7	0	Empresas de tecnologia ampliaram vagas para desenvolvedores .
+de	ADP	0	7	1	Empresas de tecnologia ampliaram vagas para desenvolvedores .
+tecnologia	NOUN	0	7	2	Empresas de tecnologia ampliaram vagas para desenvolvedores .
+ampliaram	VERB	1	7	3	Empresas de tecnologia ampliaram vagas para desenvolvedores .
+vagas	NOUN	0	7	4	Empresas de tecnologia ampliaram vagas para desenvolvedores .
+para	ADP	0	7	5	Empresas de tecnologia ampliaram vagas para desenvolvedores .
+desenvolvedores	NOUN	0	7	6	Empresas de tecnologia ampliaram vagas para desenvolvedores .
+.	PUNCT	0	7	7	Empresas de tecnologia ampliaram vagas para desenvolvedores .
+O	DET	0	8	0	O Ministério da Saúde iniciou nova campanha de vacinação .
+Ministério	PROPN	0	8	1	O Ministério da Saúde iniciou nova campanha de vacinação .
+da	ADP	0	8	2	O Ministério da Saúde iniciou nova campanha de vacinação .
+Saúde	PROPN	0	8	3	O Ministério da Saúde iniciou nova campanha de vacinação .
+iniciou	VERB	0	8	4	O Ministério da Saúde iniciou nova campanha de vacinação .
+nova	ADJ	0	8	5	O Ministério da Saúde iniciou nova campanha de vacinação .
+campanha	NOUN	0	8	6	O Ministério da Saúde iniciou nova campanha de vacinação .
+de	ADP	0	8	7	O Ministério da Saúde iniciou nova campanha de vacinação .
+vacinação	NOUN	1	8	8	O Ministério da Saúde iniciou nova campanha de vacinação .
+.	PUNCT	0	8	9	O Ministério da Saúde iniciou nova campanha de vacinação .
+A	DET	0	9	0	A Petrobras anunciou aumento na produção de petróleo .
+Petrobras	PROPN	0	9	1	A Petrobras anunciou aumento na produção de petróleo .
+anunciou	VERB	0	9	2	A Petrobras anunciou aumento na produção de petróleo .
+aumento	NOUN	0	9	3	A Petrobras anunciou aumento na produção de petróleo .
+na	ADP	0	9	4	A Petrobras anunciou aumento na produção de petróleo .
+produção	NOUN	0	9	5	A Petrobras anunciou aumento na produção de petróleo .
+de	ADP	0	9	6	A Petrobras anunciou aumento na produção de petróleo .
+petróleo	NOUN	0	9	7	A Petrobras anunciou aumento na produção de petróleo .
+.	PUNCT	0	9	8	A Petrobras anunciou aumento na produção de petróleo .
+Especialistas	NOUN	1	10	0	Especialistas discutiram inteligência artificial em congresso .
+discutiram	VERB	1	10	1	Especialistas discutiram inteligência artificial em congresso .
+inteligência	NOUN	0	10	2	Especialistas discutiram inteligência artificial em congresso .
+artificial	ADJ	0	10	3	Especialistas discutiram inteligência artificial em congresso .
+em	ADP	0	10	4	Especialistas discutiram inteligência artificial em congresso .
+congresso	NOUN	0	10	5	Especialistas discutiram inteligência artificial em congresso .
+.	PUNCT	0	10	6	Especialistas discutiram inteligência artificial em congresso .
+O	DET	0	11	0	O mercado financeiro reagiu positivamente às novas medidas .
+mercado	NOUN	0	11	1	O mercado financeiro reagiu positivamente às novas medidas .
+financeiro	ADJ	0	11	2	O mercado financeiro reagiu positivamente às novas medidas .
+reagiu	VERB	1	11	3	O mercado financeiro reagiu positivamente às novas medidas .
+positivamente	ADV	1	11	4	O mercado financeiro reagiu positivamente às novas medidas .
+às	ADP	0	11	5	O mercado financeiro reagiu positivamente às novas medidas .
+novas	ADJ	0	11	6	O mercado financeiro reagiu positivamente às novas medidas .
+medidas	NOUN	0	11	7	O mercado financeiro reagiu positivamente às novas medidas .
+.	PUNCT	0	11	8	O mercado financeiro reagiu positivamente às novas medidas .
+A	DET	0	12	0	A equipe médica realizou cirurgia inédita em São Paulo .
+equipe	NOUN	0	12	1	A equipe médica realizou cirurgia inédita em São Paulo .
+médica	ADJ	0	12	2	A equipe médica realizou cirurgia inédita em São Paulo .
+realizou	VERB	0	12	3	A equipe médica realizou cirurgia inédita em São Paulo .
+cirurgia	NOUN	0	12	4	A equipe médica realizou cirurgia inédita em São Paulo .
+inédita	ADJ	0	12	5	A equipe médica realizou cirurgia inédita em São Paulo .
+em	ADP	0	12	6	A equipe médica realizou cirurgia inédita em São Paulo .
+São	PROPN	0	12	7	A equipe médica realizou cirurgia inédita em São Paulo .
+Paulo	PROPN	0	12	8	A equipe médica realizou cirurgia inédita em São Paulo .
+.	PUNCT	0	12	9	A equipe médica realizou cirurgia inédita em São Paulo .
+A	DET	0	13	0	A bolsa de valores encerrou o dia em alta .
+bolsa	NOUN	0	13	1	A bolsa de valores encerrou o dia em alta .
+de	ADP	0	13	2	A bolsa de valores encerrou o dia em alta .
+valores	NOUN	0	13	3	A bolsa de valores encerrou o dia em alta .
+encerrou	VERB	0	13	4	A bolsa de valores encerrou o dia em alta .
+o	DET	0	13	5	A bolsa de valores encerrou o dia em alta .
+dia	NOUN	0	13	6	A bolsa de valores encerrou o dia em alta .
+em	ADP	0	13	7	A bolsa de valores encerrou o dia em alta .
+alta	NOUN	0	13	8	A bolsa de valores encerrou o dia em alta .
+.	PUNCT	0	13	9	A bolsa de valores encerrou o dia em alta .
+Estudantes	NOUN	0	14	0	Estudantes participaram de olimpíada nacional de matemática .
+participaram	VERB	0	14	1	Estudantes participaram de olimpíada nacional de matemática .
+de	ADP	0	14	2	Estudantes participaram de olimpíada nacional de matemática .
+olimpíada	NOUN	1	14	3	Estudantes participaram de olimpíada nacional de matemática .
+nacional	ADJ	0	14	4	Estudantes participaram de olimpíada nacional de matemática .
+de	ADP	0	14	5	Estudantes participaram de olimpíada nacional de matemática .
+matemática	NOUN	0	14	6	Estudantes participaram de olimpíada nacional de matemática .
+.	PUNCT	0	14	7	Estudantes participaram de olimpíada nacional de matemática .
+Pesquisadores	NOUN	1	15	0	Pesquisadores brasileiros publicaram artigo científico internacional .
+brasileiros	ADJ	0	15	1	Pesquisadores brasileiros publicaram artigo científico internacional .
+publicaram	VERB	1	15	2	Pesquisadores brasileiros publicaram artigo científico internacional .
+artigo	NOUN	0	15	3	Pesquisadores brasileiros publicaram artigo científico internacional .
+científico	ADJ	0	15	4	Pesquisadores brasileiros publicaram artigo científico internacional .
+internacional	ADJ	0	15	5	Pesquisadores brasileiros publicaram artigo científico internacional .
+.	PUNCT	0	15	6	Pesquisadores brasileiros publicaram artigo científico internacional .
+A	DET	0	16	0	A seleção feminina conquistou medalha no campeonato .
+seleção	NOUN	0	16	1	A seleção feminina conquistou medalha no campeonato .
+feminina	ADJ	0	16	2	A seleção feminina conquistou medalha no campeonato .
+conquistou	VERB	0	16	3	A seleção feminina conquistou medalha no campeonato .
+medalha	NOUN	0	16	4	A seleção feminina conquistou medalha no campeonato .
+no	ADP	0	16	5	A seleção feminina conquistou medalha no campeonato .
+campeonato	NOUN	0	16	6	A seleção feminina conquistou medalha no campeonato .
+.	PUNCT	0	16	7	A seleção feminina conquistou medalha no campeonato .
+O	DET	0	17	0	O governo estadual inaugurou hospital regional .
+governo	NOUN	0	17	1	O governo estadual inaugurou hospital regional .
+estadual	ADJ	0	17	2	O governo estadual inaugurou hospital regional .
+inaugurou	VERB	0	17	3	O governo estadual inaugurou hospital regional .
+hospital	NOUN	0	17	4	O governo estadual inaugurou hospital regional .
+regional	ADJ	0	17	5	O governo estadual inaugurou hospital regional .
+.	PUNCT	0	17	6	O governo estadual inaugurou hospital regional .
+Novos	ADJ	0	18	0	Novos aplicativos facilitaram o acesso a serviços digitais .
+aplicativos	NOUN	0	18	1	Novos aplicativos facilitaram o acesso a serviços digitais .
+facilitaram	VERB	1	18	2	Novos aplicativos facilitaram o acesso a serviços digitais .
+o	DET	0	18	3	Novos aplicativos facilitaram o acesso a serviços digitais .
+acesso	NOUN	0	18	4	Novos aplicativos facilitaram o acesso a serviços digitais .
+a	ADP	0	18	5	Novos aplicativos facilitaram o acesso a serviços digitais .
+serviços	NOUN	0	18	6	Novos aplicativos facilitaram o acesso a serviços digitais .
+digitais	ADJ	0	18	7	Novos aplicativos facilitaram o acesso a serviços digitais .
+.	PUNCT	0	18	8	Novos aplicativos facilitaram o acesso a serviços digitais .
+O	DET	0	19	0	O turismo brasileiro apresentou crescimento no verão .
+turismo	NOUN	0	19	1	O turismo brasileiro apresentou crescimento no verão .
+brasileiro	ADJ	0	19	2	O turismo brasileiro apresentou crescimento no verão .
+apresentou	VERB	0	19	3	O turismo brasileiro apresentou crescimento no verão .
+crescimento	NOUN	0	19	4	O turismo brasileiro apresentou crescimento no verão .
+no	ADP	0	19	5	O turismo brasileiro apresentou crescimento no verão .
+verão	NOUN	0	19	6	O turismo brasileiro apresentou crescimento no verão .
+.	PUNCT	0	19	7	O turismo brasileiro apresentou crescimento no verão .
+A	DET	0	20	0	A conferência reuniu especialistas em segurança da informação .
+conferência	NOUN	0	20	1	A conferência reuniu especialistas em segurança da informação .
+reuniu	VERB	0	20	2	A conferência reuniu especialistas em segurança da informação .
+especialistas	NOUN	0	20	3	A conferência reuniu especialistas em segurança da informação .
+em	ADP	0	20	4	A conferência reuniu especialistas em segurança da informação .
+segurança	NOUN	0	20	5	A conferência reuniu especialistas em segurança da informação .
+da	ADP	0	20	6	A conferência reuniu especialistas em segurança da informação .
+informação	NOUN	0	20	7	A conferência reuniu especialistas em segurança da informação .
+.	PUNCT	0	20	8	A conferência reuniu especialistas em segurança da informação .
+A	DET	0	21	0	A escola promoveu feira de ciências para os alunos .
+escola	NOUN	0	21	1	A escola promoveu feira de ciências para os alunos .
+promoveu	VERB	0	21	2	A escola promoveu feira de ciências para os alunos .
+feira	NOUN	0	21	3	A escola promoveu feira de ciências para os alunos .
+de	ADP	0	21	4	A escola promoveu feira de ciências para os alunos .
+ciências	NOUN	0	21	5	A escola promoveu feira de ciências para os alunos .
+para	ADP	0	21	6	A escola promoveu feira de ciências para os alunos .
+os	DET	0	21	7	A escola promoveu feira de ciências para os alunos .
+alunos	NOUN	0	21	8	A escola promoveu feira de ciências para os alunos .
+.	PUNCT	0	21	9	A escola promoveu feira de ciências para os alunos .
+O	DET	0	22	0	O banco central divulgou relatório econômico anual .
+banco	NOUN	0	22	1	O banco central divulgou relatório econômico anual .
+central	ADJ	0	22	2	O banco central divulgou relatório econômico anual .
+divulgou	VERB	0	22	3	O banco central divulgou relatório econômico anual .
+relatório	NOUN	0	22	4	O banco central divulgou relatório econômico anual .
+econômico	ADJ	0	22	5	O banco central divulgou relatório econômico anual .
+anual	ADJ	0	22	6	O banco central divulgou relatório econômico anual .
+.	PUNCT	0	22	7	O banco central divulgou relatório econômico anual .
+O	DET	0	23	0	O campeonato brasileiro começou neste final de semana .
+campeonato	NOUN	0	23	1	O campeonato brasileiro começou neste final de semana .
+brasileiro	ADJ	0	23	2	O campeonato brasileiro começou neste final de semana .
+começou	VERB	0	23	3	O campeonato brasileiro começou neste final de semana .
+neste	ADP	0	23	4	O campeonato brasileiro começou neste final de semana .
+final	NOUN	0	23	5	O campeonato brasileiro começou neste final de semana .
+de	ADP	0	23	6	O campeonato brasileiro começou neste final de semana .
+semana	NOUN	0	23	7	O campeonato brasileiro começou neste final de semana .
+.	PUNCT	0	23	8	O campeonato brasileiro começou neste final de semana .
+Cientistas	NOUN	1	24	0	Cientistas analisaram dados sobre mudanças climáticas .
+analisaram	VERB	1	24	1	Cientistas analisaram dados sobre mudanças climáticas .
+dados	NOUN	0	24	2	Cientistas analisaram dados sobre mudanças climáticas .
+sobre	ADP	0	24	3	Cientistas analisaram dados sobre mudanças climáticas .
+mudanças	NOUN	0	24	4	Cientistas analisaram dados sobre mudanças climáticas .
+climáticas	ADJ	0	24	5	Cientistas analisaram dados sobre mudanças climáticas .
+.	PUNCT	0	24	6	Cientistas analisaram dados sobre mudanças climáticas .
+A	DET	0	25	0	A startup recebeu investimentos de empresas internacionais .
+startup	NOUN	1	25	1	A startup recebeu investimentos de empresas internacionais .
+recebeu	VERB	0	25	2	A startup recebeu investimentos de empresas internacionais .
+investimentos	NOUN	0	25	3	A startup recebeu investimentos de empresas internacionais .
+de	ADP	0	25	4	A startup recebeu investimentos de empresas internacionais .
+empresas	NOUN	0	25	5	A startup recebeu investimentos de empresas internacionais .
+internacionais	ADJ	0	25	6	A startup recebeu investimentos de empresas internacionais .
+.	PUNCT	0	25	7	A startup recebeu investimentos de empresas internacionais .
+O	DET	0	26	0	O município ampliou programas de educação pública .
+município	NOUN	0	26	1	O município ampliou programas de educação pública .
+ampliou	VERB	0	26	2	O município ampliou programas de educação pública .
+programas	NOUN	0	26	3	O município ampliou programas de educação pública .
+de	ADP	0	26	4	O município ampliou programas de educação pública .
+educação	NOUN	0	26	5	O município ampliou programas de educação pública .
+pública	ADJ	0	26	6	O município ampliou programas de educação pública .
+.	PUNCT	0	26	7	O município ampliou programas de educação pública .
+Jogadores	NOUN	1	27	0	Jogadores participaram de treinamento antes da competição .
+participaram	VERB	0	27	1	Jogadores participaram de treinamento antes da competição .
+de	ADP	0	27	2	Jogadores participaram de treinamento antes da competição .
+treinamento	NOUN	0	27	3	Jogadores participaram de treinamento antes da competição .
+antes	ADV	0	27	4	Jogadores participaram de treinamento antes da competição .
+da	ADP	0	27	5	Jogadores participaram de treinamento antes da competição .
+competição	NOUN	0	27	6	Jogadores participaram de treinamento antes da competição .
+.	PUNCT	0	27	7	Jogadores participaram de treinamento antes da competição .
+A	DET	0	28	0	A universidade lançou curso sobre ciência de dados .
+universidade	NOUN	0	28	1	A universidade lançou curso sobre ciência de dados .
+lançou	VERB	0	28	2	A universidade lançou curso sobre ciência de dados .
+curso	NOUN	0	28	3	A universidade lançou curso sobre ciência de dados .
+sobre	ADP	0	28	4	A universidade lançou curso sobre ciência de dados .
+ciência	NOUN	0	28	5	A universidade lançou curso sobre ciência de dados .
+de	ADP	0	28	6	A universidade lançou curso sobre ciência de dados .
+dados	NOUN	0	28	7	A universidade lançou curso sobre ciência de dados .
+.	PUNCT	0	28	8	A universidade lançou curso sobre ciência de dados .
+O	DET	0	29	0	O setor industrial registrou aumento na produção .
+setor	NOUN	0	29	1	O setor industrial registrou aumento na produção .
+industrial	ADJ	0	29	2	O setor industrial registrou aumento na produção .
+registrou	VERB	0	29	3	O setor industrial registrou aumento na produção .
+aumento	NOUN	0	29	4	O setor industrial registrou aumento na produção .
+na	ADP	0	29	5	O setor industrial registrou aumento na produção .
+produção	NOUN	0	29	6	O setor industrial registrou aumento na produção .
+.	PUNCT	0	29	7	O setor industrial registrou aumento na produção .
+Pesquisadores	NOUN	1	30	0	Pesquisadores apresentaram avanços em computação quântica .
+apresentaram	VERB	0	30	1	Pesquisadores apresentaram avanços em computação quântica .
+avanços	NOUN	0	30	2	Pesquisadores apresentaram avanços em computação quântica .
+em	ADP	0	30	3	Pesquisadores apresentaram avanços em computação quântica .
+computação	NOUN	0	30	4	Pesquisadores apresentaram avanços em computação quântica .
+quântica	ADJ	0	30	5	Pesquisadores apresentaram avanços em computação quântica .
+.	PUNCT	0	30	6	Pesquisadores apresentaram avanços em computação quântica .

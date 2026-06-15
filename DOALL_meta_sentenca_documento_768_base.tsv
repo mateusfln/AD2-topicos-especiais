@@ -1,0 +1,61 @@
+Sentença	Id	Index	Granularidade	Documento
+O Brasil registrou crescimento econômico no último trimestre.	1	0	0	O Brasil registrou crescimento econômico no último trimestre .
+0	1	-1	1	O Brasil registrou crescimento econômico no último trimestre .
+Pesquisadores desenvolveram uma nova tecnologia para energia solar.	2	0	0	Pesquisadores desenvolveram uma nova tecnologia para energia solar .
+1	2	-1	1	Pesquisadores desenvolveram uma nova tecnologia para energia solar .
+A seleção brasileira venceu a partida por três a zero.	3	0	0	A seleção brasileira venceu a partida por três a zero .
+2	3	-1	1	A seleção brasileira venceu a partida por três a zero .
+A inflação apresentou queda durante o mês de abril.	4	0	0	A inflação apresentou queda durante o mês de abril .
+3	4	-1	1	A inflação apresentou queda durante o mês de abril .
+Universidades federais receberam novos investimentos em pesquisa.	5	0	0	Universidades federais receberam novos investimentos em pesquisa .
+4	5	-1	1	Universidades federais receberam novos investimentos em pesquisa .
+A prefeitura anunciou obras de mobilidade urbana.	6	0	0	A prefeitura anunciou obras de mobilidade urbana .
+5	6	-1	1	A prefeitura anunciou obras de mobilidade urbana .
+Empresas de tecnologia ampliaram vagas para desenvolvedores.	7	0	0	Empresas de tecnologia ampliaram vagas para desenvolvedores .
+6	7	-1	1	Empresas de tecnologia ampliaram vagas para desenvolvedores .
+O Ministério da Saúde iniciou nova campanha de vacinação.	8	0	0	O Ministério da Saúde iniciou nova campanha de vacinação .
+7	8	-1	1	O Ministério da Saúde iniciou nova campanha de vacinação .
+A Petrobras anunciou aumento na produção de petróleo.	9	0	0	A Petrobras anunciou aumento na produção de petróleo .
+8	9	-1	1	A Petrobras anunciou aumento na produção de petróleo .
+Especialistas discutiram inteligência artificial em congresso.	10	0	0	Especialistas discutiram inteligência artificial em congresso .
+9	10	-1	1	Especialistas discutiram inteligência artificial em congresso .
+O mercado financeiro reagiu positivamente às novas medidas.	11	0	0	O mercado financeiro reagiu positivamente às novas medidas .
+10	11	-1	1	O mercado financeiro reagiu positivamente às novas medidas .
+A equipe médica realizou cirurgia inédita em São Paulo.	12	0	0	A equipe médica realizou cirurgia inédita em São Paulo .
+11	12	-1	1	A equipe médica realizou cirurgia inédita em São Paulo .
+A bolsa de valores encerrou o dia em alta.	13	0	0	A bolsa de valores encerrou o dia em alta .
+12	13	-1	1	A bolsa de valores encerrou o dia em alta .
+Estudantes participaram de olimpíada nacional de matemática.	14	0	0	Estudantes participaram de olimpíada nacional de matemática .
+13	14	-1	1	Estudantes participaram de olimpíada nacional de matemática .
+Pesquisadores brasileiros publicaram artigo científico internacional.	15	0	0	Pesquisadores brasileiros publicaram artigo científico internacional .
+14	15	-1	1	Pesquisadores brasileiros publicaram artigo científico internacional .
+A seleção feminina conquistou medalha no campeonato.	16	0	0	A seleção feminina conquistou medalha no campeonato .
+15	16	-1	1	A seleção feminina conquistou medalha no campeonato .
+O governo estadual inaugurou hospital regional.	17	0	0	O governo estadual inaugurou hospital regional .
+16	17	-1	1	O governo estadual inaugurou hospital regional .
+Novos aplicativos facilitaram o acesso a serviços digitais.	18	0	0	Novos aplicativos facilitaram o acesso a serviços digitais .
+17	18	-1	1	Novos aplicativos facilitaram o acesso a serviços digitais .
+O turismo brasileiro apresentou crescimento no verão.	19	0	0	O turismo brasileiro apresentou crescimento no verão .
+18	19	-1	1	O turismo brasileiro apresentou crescimento no verão .
+A conferência reuniu especialistas em segurança da informação.	20	0	0	A conferência reuniu especialistas em segurança da informação .
+19	20	-1	1	A conferência reuniu especialistas em segurança da informação .
+A escola promoveu feira de ciências para os alunos.	21	0	0	A escola promoveu feira de ciências para os alunos .
+20	21	-1	1	A escola promoveu feira de ciências para os alunos .
+O banco central divulgou relatório econômico anual.	22	0	0	O banco central divulgou relatório econômico anual .
+21	22	-1	1	O banco central divulgou relatório econômico anual .
+O campeonato brasileiro começou neste final de semana.	23	0	0	O campeonato brasileiro começou neste final de semana .
+22	23	-1	1	O campeonato brasileiro começou neste final de semana .
+Cientistas analisaram dados sobre mudanças climáticas.	24	0	0	Cientistas analisaram dados sobre mudanças climáticas .
+23	24	-1	1	Cientistas analisaram dados sobre mudanças climáticas .
+A startup recebeu investimentos de empresas internacionais.	25	0	0	A startup recebeu investimentos de empresas internacionais .
+24	25	-1	1	A startup recebeu investimentos de empresas internacionais .
+O município ampliou programas de educação pública.	26	0	0	O município ampliou programas de educação pública .
+25	26	-1	1	O município ampliou programas de educação pública .
+Jogadores participaram de treinamento antes da competição.	27	0	0	Jogadores participaram de treinamento antes da competição .
+26	27	-1	1	Jogadores participaram de treinamento antes da competição .
+A universidade lançou curso sobre ciência de dados.	28	0	0	A universidade lançou curso sobre ciência de dados .
+27	28	-1	1	A universidade lançou curso sobre ciência de dados .
+O setor industrial registrou aumento na produção.	29	0	0	O setor industrial registrou aumento na produção .
+28	29	-1	1	O setor industrial registrou aumento na produção .
+Pesquisadores apresentaram avanços em computação quântica.	30	0	0	Pesquisadores apresentaram avanços em computação quântica .
+29	30	-1	1	Pesquisadores apresentaram avanços em computação quântica .
